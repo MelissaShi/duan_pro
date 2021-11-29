@@ -1,0 +1,30 @@
+[
+    {
+        "cardID": "6221234669299851",
+        "name": "MasterCard1",
+        "image": "assets/image/img1.jpg",
+        "available": 35400.26,
+        "limit": 144000
+    },
+    {
+        "cardID": "6221234669299862",
+        "name": "MasterCard2",
+        "image": "assets/image/img2.jpg",
+        "available": 46660.34,
+        "limit": 255000
+    },
+    {
+        "cardID": "6221234669299873",
+        "name": "MasterCard3",
+        "image": "assets/image/img3.jpg",
+        "available": 59000,
+        "limit": 366000
+    },
+    {
+        "cardID": "6221234669299884",
+        "name": "MasterCard4",
+        "image": "assets/image/img4.jpg",
+        "available": 78000,
+        "limit": 488000
+    }
+]
